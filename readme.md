@@ -3,7 +3,7 @@
 
 ## Make your own 8-bit game:
 
-##Flappy Bird & Pong
+## Flappy Bird & Pong
 ### 1. 
 https://www.pico-8-edu.com/
 
@@ -15,9 +15,7 @@ Game Cartridge for Flappy Bird Tutorial:
 ### 3.
 Game Cartridge for Pong:
 
-![alt text here](https://raw.githubusercontent.com/chabotgamelab/chabotgamelab/main/pong.p8.png)
-
-
+![alt text here](https://github.com/chabotgamelab/pong/blob/main/pong.p8.png?raw=true)
 
 
 <!---
