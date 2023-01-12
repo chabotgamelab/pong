@@ -13,19 +13,20 @@
 ## Cartridges
 ### Flappy Bird Tutorial
 
-![alt text here](https://raw.githubusercontent.com/chabotgamelab/chabotgamelab/main/my_game.p8.png)
+![alt text - Flappy bird cartridge](https://raw.githubusercontent.com/chabotgamelab/chabotgamelab/main/my_game.p8.png)
 
 
 
 ### Pong Tutorial
 
-![alt text here](https://raw.githubusercontent.com/chabotgamelab/pong/main/pong.p8.png)
+![Alt text - Pong tutorial cartridge](https://raw.githubusercontent.com/chabotgamelab/pong/main/pong.p8.png)
 
 
 
 
 
 ### Full Pong Demo
+![alt text - Pong demo cartridge](https://raw.githubusercontent.com/chabotgamelab/pong/main/pong_demo.p8.png)
 
 
 
