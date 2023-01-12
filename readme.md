@@ -11,16 +11,16 @@
 
 **Load the cartridge:** Click and drag the .png into the newly opened tab with PICO-8. Drag it on top of PICO-8 to load the cartridge successfully.
 
-Flappy Bird Tutorial Cartridge: 
+
+### Flappy Bird Tutorial Cartridge: 
 
 ![alt text here](https://raw.githubusercontent.com/chabotgamelab/chabotgamelab/main/my_game.p8.png)
 
-### 3.
 
 
-Pong Tutorial Cartridge:
+### Pong Tutorial Cartridge:
 
-![alt text here](https://github.com/chabotgamelab/pong/blob/main/pong.p8.png?raw=true)
+![alt text here](https://raw.githubusercontent.com/chabotgamelab/pong/main/pong.p8.png)
 
 
 <!---
