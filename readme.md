@@ -5,20 +5,20 @@
 
 ## Flappy Bird & Pong
 ### 1. PICO-8
-https://www.pico-8-edu.com/ - Open this in a new tab & click Play (Don't forget to click play before the next step)
+**Open PICO-8:** https://www.pico-8-edu.com/ - Open this in a new tab & click Play (Don't forget to click play before the next step)
 
 ### 2. Game Cartridges
 
-Load the cartridge - Click and drag the .png into the newly opened tab with PICO-8. Drag it on top of PICO-8 to load the cartridge successfully.
+**Load the cartridge:** Click and drag the .png into the newly opened tab with PICO-8. Drag it on top of PICO-8 to load the cartridge successfully.
 
-Flappy Bird Tutorial: 
+Flappy Bird Tutorial Cartridge: 
 
 ![alt text here](https://raw.githubusercontent.com/chabotgamelab/chabotgamelab/main/my_game.p8.png)
 
 ### 3.
 
 
-Pong Tutorial:
+Pong Tutorial Cartridge:
 
 ![alt text here](https://github.com/chabotgamelab/pong/blob/main/pong.p8.png?raw=true)
 
