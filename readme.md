@@ -3,6 +3,10 @@
 
 ## Make your own 8-bit game:
 
+## Resources
+
+![Presentation - 8-bit Pong tutorial](https://docs.google.com/presentation/d/1z8gm_0g0FGxiX-dVlTdjPJBzSibaFgH9o2m8yhQnIwc/edit?usp=sharing)
+
 ## Instructions
 ### 1. 
 **Open PICO-8:** https://www.pico-8-edu.com/ - Open this in a new tab & click Play (Don't forget to click play before the next step)
