@@ -15,6 +15,8 @@ Game Cartridge for Flappy Bird Tutorial:
 ### 3.
 Game Cartridge for Pong:
 
+![alt text here](https://raw.githubusercontent.com/chabotgamelab/chabotgamelab/main/pong.p8.png)
+
 
 
 
