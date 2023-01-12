@@ -12,7 +12,7 @@
 **Open PICO-8:** https://www.pico-8-edu.com/ - Open this in a new tab & click Play (Don't forget to click play before the next step)
 
 ### 2. 
-**Load the cartridge:** Click and drag the .png into the newly opened tab with PICO-8. Drag it on top of PICO-8 to load the cartridge successfully.
+**Load the cartridge:** Click and drag the .png into the newly opened tab with PICO-8. Drag it into PICO-8 to load the cartridge successfully.
 
 ## Cartridges
 ### Flappy Bird Tutorial
