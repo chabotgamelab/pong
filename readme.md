@@ -3,24 +3,37 @@
 
 ## Make your own 8-bit game:
 
-## Flappy Bird & Pong
-### 1. PICO-8
+## Instructions
+### 1. 
 **Open PICO-8:** https://www.pico-8-edu.com/ - Open this in a new tab & click Play (Don't forget to click play before the next step)
 
-### 2. Game Cartridges
-
+### 2. 
 **Load the cartridge:** Click and drag the .png into the newly opened tab with PICO-8. Drag it on top of PICO-8 to load the cartridge successfully.
 
-
-### Flappy Bird Tutorial Cartridge: 
+## Cartridges
+### Flappy Bird Tutorial
 
 ![alt text here](https://raw.githubusercontent.com/chabotgamelab/chabotgamelab/main/my_game.p8.png)
 
 
 
-### Pong Tutorial Cartridge:
+### Pong Tutorial
 
 ![alt text here](https://raw.githubusercontent.com/chabotgamelab/pong/main/pong.p8.png)
+
+
+
+
+
+### Full Pong Demo
+![alt text here](https://raw.githubusercontent.com/chabotgamelab/pong/main/pong_demo.p8.png)
+
+
+
+
+
+
+
 
 
 <!---
