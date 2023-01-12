@@ -26,9 +26,6 @@
 
 
 ### Full Pong Demo
-![alt text here](https://raw.githubusercontent.com/chabotgamelab/pong/main/pong_demo.p8.png)
-
-
 
 
 
