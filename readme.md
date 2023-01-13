@@ -5,7 +5,11 @@
 
 ## Resources
 
+###Google Slides presentations
+
 [Presentation - 8-bit Pong tutorial](https://docs.google.com/presentation/d/1z8gm_0g0FGxiX-dVlTdjPJBzSibaFgH9o2m8yhQnIwc/edit?usp=sharing)
+
+[Presentation - Flappy Bird tutorial](https://docs.google.com/presentation/d/1lwyQJlieIWRK0KdeK27Xbi5mGmyOd0ZQ98R5mq7fPJ4/edit?usp=sharing)
 
 ## Instructions
 ### 1. 
