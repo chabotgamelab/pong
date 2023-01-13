@@ -5,7 +5,7 @@
 
 ## Resources
 
-###Google Slides presentations
+### Google Slides presentations
 
 [Presentation - 8-bit Pong tutorial](https://docs.google.com/presentation/d/1z8gm_0g0FGxiX-dVlTdjPJBzSibaFgH9o2m8yhQnIwc/edit?usp=sharing)
 
